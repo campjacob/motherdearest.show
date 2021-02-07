@@ -1,0 +1,5 @@
+#_data/navbar.yml
+- name: About Podcast
+  link: /about/
+- name: Contact Us
+  link: /contact/

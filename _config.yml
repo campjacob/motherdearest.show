@@ -1,0 +1,28 @@
+# Mother Dearest Podcast
+
+title: "Mother Dearest Show"
+email: jacob.r.campbell@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  The _Mother Dearest Show_ takes place every other week. Mother and son join each other for a call where they talk about everything from mental health counseling services, social work, spirituality, and family history, building connections together.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://motherdearest.show" # the base hostname & protocol for your site, e.g. http://example.com
+show_excerpts: true
+author: "Jacob Campbell"
+hostname: "Hosted by **Judy Dirks** and **Jacob Campbell**"
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: episode
+      itunes_explicit: false
+      episode_type: full # full (default),trailer, bonus
+      itunes_block: no # no (default), yes (to block)
+      itunes_season: 1 # number
+      sponsor: false # false (default), true
+
+# Outputting
+permalink: /:slug
