@@ -10,8 +10,8 @@
     <itunes:author>Locus of Transformation</itunes:author>
     <description>
         <![CDATA[
-        <h3 class="text-center">{{ site.hostname | markdownify }}</h3>
-        {{ site.description | markdownify }}
+            {{ site.hostname | markdownify }}
+            {{ site.description | markdownify }}
         ]]>
     </description>
     <itunes:type>episodic</itunes:type>
@@ -41,9 +41,9 @@
             ]]>
         </description>
         <enclosure 
-        length="{{ post.enclosure_length_bytes }}" 
-        type="audio/mpeg" 
-        url="{{ post.enclosure_url | xml_escape }}"
+            length="{{ post.enclosure_length_bytes }}" 
+            type="audio/mpeg" 
+            url="{{ post.enclosure_url | xml_escape }}"
         />
         <guid>season-{{ post.itunes_season }}--episode-{{ post.itunes_episode }}</guid>
         <link>{{ site.url }}{{ post.url }}</link>

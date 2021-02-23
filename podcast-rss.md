@@ -4,6 +4,8 @@ title: RSS Feed
 permalink: /podcast-rss/
 ---
 
+Version 0.0.2
+
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
@@ -15,8 +17,8 @@ permalink: /podcast-rss/
     <itunes:author>Locus of Transformation</itunes:author>
     <description>
         <![CDATA[
-        <h3 class="text-center">{{ site.hostname | markdownify }}</h3>
-        {{ site.description | markdownify }}
+            {{ site.hostname | markdownify }}
+            {{ site.description | markdownify }}
         ]]>
     </description>
     <itunes:type>episodic</itunes:type>
@@ -46,9 +48,9 @@ permalink: /podcast-rss/
             ]]>
         </description>
         <enclosure 
-        length="{{ post.enclosure_length_bytes }}" 
-        type="audio/mpeg" 
-        url="{{ post.enclosure_url | xml_escape }}"
+            length="{{ post.enclosure_length_bytes }}" 
+            type="audio/mpeg" 
+            url="{{ post.enclosure_url | xml_escape }}"
         />
         <guid>season-{{ post.itunes_season }}--episode-{{ post.itunes_episode }}</guid>
         <link>{{ site.url }}{{ post.url }}</link>
@@ -64,4 +66,5 @@ permalink: /podcast-rss/
 
 </channel>
 </rss>
+
 ```
