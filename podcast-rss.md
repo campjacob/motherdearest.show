@@ -4,7 +4,7 @@ title: RSS Feed
 permalink: /podcast-rss/
 ---
 
-Version 0.0.2
+Version 0.0.3
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -39,7 +39,7 @@ Version 0.0.2
         <itunes:episodeType>{{ post.episode_type }}</itunes:episodeType>
         <itunes:episode>{{ post.itunes_episode }}</itunes:episode>
         <itunes:season>{{ post.itunes_season }}</itunes:season>
-        <itunes:title>{{ post.title | xml_escape }}</itunes:title>
+        <title>{{ post.title | xml_escape }}</title>
         <description>
             <![CDATA[
             <p>View <a href="{{ site.url }}{{ post.url }}">Episode {{ post.itunes_episode }}: {{ post.title }}</a>
