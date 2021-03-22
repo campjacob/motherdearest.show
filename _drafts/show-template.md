@@ -13,3 +13,5 @@ slug: "2"
 
 - [Wisdom of the Oracle Divination Cards: Ask and Know by Colette Baron-Reid](https://www.amazon.com/gp/product/1401946429/)
 - [Osho Zen Tarot: The Transcendental Game Of Zen (79-Card Deck and 192-Page Book)](https://www.amazon.com/Osho-Zen-Tarot-Transcendental-192-Page/dp/0312117337/)
+- [Pathfinder's Tarot by David Fontana](https://www.amazon.com/Pathfinders-Tarot-David-Fontana/dp/1780280424)
+
