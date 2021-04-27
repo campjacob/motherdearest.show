@@ -11,11 +11,11 @@ itunes_episode: 6
 slug: "6"
 ---
 
-00:00 Introduction
-01:02 N.0.W Centering Activity
-07:26 Pulling the 8 Tribe Card
-18:44 Judy's Connection with the "Weavers" Group
-22:18 Being a part of starts of things
+00:00 Introduction  
+01:02 N.0.W Centering Activity  
+07:26 Pulling the 8 Tribe Card  
+18:44 Judy's Connection with the "Weavers" Group  
+22:18 Being a part of starts of things  
 
 - Solu's [N.0.W.](https://www.nowbysolu.com). Yoga for your mind. There website has a sample that can be heard, and I have included that in the show so that there were no sound problems. 
 - [Wisdom of the Oracle Divination Cards: Ask and Know by Colette Baron-Reid](https://www.amazon.com/gp/product/1401946429/)
