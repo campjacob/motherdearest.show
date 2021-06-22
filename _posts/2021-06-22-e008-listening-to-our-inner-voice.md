@@ -7,7 +7,7 @@ excerpt: "Jacob and Judy use _The Rider-Waite Tarot Deck_ to pull the XVI The To
 itunes_duration_seconds: 2002
 enclosure_length_bytes: 32274396
 enclosure_url: "https://traffic.libsyn.com/secure/motherdearest/e008-listening-to-our-inner-voice.mp3"
- itunes_episode: 8
+itunes_episode: 8
 slug: "8"
 ---
 
