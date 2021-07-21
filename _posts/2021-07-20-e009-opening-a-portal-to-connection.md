@@ -13,11 +13,11 @@ slug: "9"
 
 ### Time Stamps
 
-00:00 Introduction
-00:28 Pulling the 2 of Clouds: Schizophrenia card
-04:16 The concept of oneness
-15:06 The Age of Aquarius
-17:44 How the world might be different in the next 10 years
+00:00 Introduction  
+00:28 Pulling the 2 of Clouds: Schizophrenia card  
+04:16 The concept of oneness  
+15:06 The Age of Aquarius  
+17:44 How the world might be different in the next 10 years  
 
 
 ### Links
