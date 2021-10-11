@@ -13,10 +13,10 @@ slug: "11"
 
 ### Time Stamps
 
-00:00 Introduction and my mom is worried about how much sun I might get.
-04:58 Pulling the Page of Fire Card - Playfulness
-15:36 What we enjoy about different seasons
-21:00 Practicing martial arts
+00:00 Introduction and my mom is worried about how much sun I might get  
+04:58 Pulling the Page of Fire Card - Playfulness  
+15:36 What we enjoy about different seasons  
+21:00 Practicing martial arts  
 
 
 ### Links
