@@ -1,4 +1,3 @@
-
 ---
 title: "They Were On To Something with that Yoga Thing"
 name: 2021-10-10-e11-they-were-on-to-something-with-that-yoga-thing.md
