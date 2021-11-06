@@ -1,6 +1,6 @@
 ---
 title: "They Were On To Something with that Yoga Thing"
-name: 2021-10-10-e11-they-were-on-to-something-with-that-yoga-thing.md
+name: 2021-10-10-e011-they-were-on-to-something-with-that-yoga-thing.md
 date: 2021-10-10 19:33:35
 recording_date: 2021-07-21
 excerpt: "Jacob and Judy use the _OSHO Zen Tarot Deck_ to pull the _Page of Fire - Playfulness_. They talk about the values of playfulness and how hard it is sometimes for adults to have a real spirit of playfulness. They also talk about different seasons they like and having done martial arts in Jacob's younger years."
