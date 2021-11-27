@@ -6,7 +6,7 @@ recording_date: 2021-10-05 15:30:00
 excerpt: "Jacob and Judy use *Rider Waite/Pathfinder Tarot Deck* to pull the *XI Justice* and the *Kind of Pentacles*. They talk about the process of the new moon, and it is a time for planting seeds and thinking, and how Judy is working on slowing down. They speak of ecology and climate change, building relationships, building rapport with kids, and thinking about healthy eating."
 itunes_duration_seconds: 2128
 enclosure_length_bytes: 34282551
-enclosure_url: ""
+enclosure_url: "https://traffic.libsyn.com/secure/motherdearest/e014-the-temperature-bacteria-grows-in.mp3"
 itunes_episode: 14
 slug: "14"
 ---
