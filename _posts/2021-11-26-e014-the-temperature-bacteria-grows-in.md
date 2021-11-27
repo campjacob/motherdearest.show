@@ -13,12 +13,12 @@ slug: "14"
 
 ### Time Stamps
 
-00:00 Introduction and how long it has been since we last recorded
-02:26 New moon tomorrow. slowing self down
-07:24 Drawing the XI Justice and the King of Pentacles and ecology
-14:28 Some Family Updates
-20:44 Judy's Plan to Connect Individually with Grand Kids
-27:46 Healthy eating and foods
+00:00 Introduction and how long it has been since we last recorded  
+02:26 New moon tomorrow. slowing self down  
+07:24 Drawing the XI Justice and the King of Pentacles and ecology  
+14:28 Some Family Updates  
+20:44 Judy's Plan to Connect Individually with Grand Kids  
+27:46 Healthy eating and foods  
 
 ### Links
 
@@ -29,11 +29,11 @@ slug: "14"
 - [Libra (astrology) - Wikipedia](https://en.wikipedia.org/wiki/Libra_(astrology))
 - [Justice (Tarot card) - Wikipedia](https://en.wikipedia.org/wiki/Justice_(Tarot_card)), [King of Coins - Wikipedia](https://en.wikipedia.org/wiki/King_of_Coins)
 -  Story by Anna King through [Columbia River Toxic Algae: Experts Say Fix What’s Causing It - Northwest Public Broadcasting](https://www.nwpb.org/2021/09/30/columbia-river-toxic-algae-experts-say-fix-whats-causing-it/)
-- [Climate change and dangerous waters | by Washington State Department of Health | Public Health Connection | Oct, 2021 | Medium](https://medium.com/wadepthealth/climate-change-and-dangerous-waters-9ba68a6d5839)
-- An article from a month and a half after we record this episode, but it is still going on. [Volcanos in Spain: La Palma volcanic eruption is now the longest seen on the island in 375 years | Spain | EL PAÍS English Edition](https://english.elpais.com/spain/2021-11-25/la-palma-volcanic-eruption-is-now-the-longest-seen-on-the-island-in-375-years.html)
+- [Climate change and dangerous waters - by Washington State Department of Health - Public Health Connection - Oct, 2021 - Medium](https://medium.com/wadepthealth/climate-change-and-dangerous-waters-9ba68a6d5839)
+- An article from a month and a half after we record this episode, but it is still going on. [Volcanos in Spain: La Palma volcanic eruption is now the longest seen on the island in 375 years - Spain - EL PAÍS English Edition](https://english.elpais.com/spain/2021-11-25/la-palma-volcanic-eruption-is-now-the-longest-seen-on-the-island-in-375-years.html)
 - [Wapato, Washington - Wikipedia](https://en.wikipedia.org/wiki/Wapato,_Washington)
 - My sister-in-law did end up passing away soon after recording this. I ended up creating a video for my family [Recuredos en Vida de Patricia del Villar Martinez - YouTube](https://jacobrcampbell.com/blog/2021/10/recuredos-en-vida-de-patricia-del-villar-martinez-youtube/)
-- [Bubble tea - Wikipedia](https://en.wikipedia.org/wiki/Bubble_tea), I often take the kids to the [TeaHaus | Facebook](https://www.facebook.com/TeaHausco/)
+- [Bubble tea - Wikipedia](https://en.wikipedia.org/wiki/Bubble_tea), I often take the kids to the [TeaHaus - Facebook](https://www.facebook.com/TeaHausco/)
 - [What Is Delicata Squash?](https://www.thespruceeats.com/what-is-delicata-squash-5081666)
 
 {% include figure image_path="/assets/media/2021-11-26-jacob-judy-mexico-trip-scan0002.jpg" alt="A photo of Jacob and Judy in Mexico when they went with their family Friend they talk about." caption="A photo of Jacob and Judy in Mexico when they went with their family Friend they talk about. Jacob doesn't have any digital versions of photos from that trip other than this one." %}
