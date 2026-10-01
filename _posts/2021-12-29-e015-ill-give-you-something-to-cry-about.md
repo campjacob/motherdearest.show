@@ -6,7 +6,7 @@ recording_date: 2021-11-02 15:30:00
 excerpt: "Jacob gives a bit of update about his Ph.D. and where he is at in the process. They use the OSHO Zen Tarot deck to pull the 4 of Fire, Participation card. They talk about learning to be in the moment, Judy's sister's polio and her other sister that died of a brain tumor and the impact of that on their family."
 itunes_duration_seconds: 2525
 enclosure_length_bytes: 40634805
-enclosure_url: "https://traffic.libsyn.com/secure/motherdearest/e015-ill-give-you-something-to-cry-about.mp3"
+enclosure_url: "https://motherdearest.show/assets/audio/e015-ill-give-you-something-to-cry-about.mp3"
 itunes_episode: 15
 slug: "15"
 ---

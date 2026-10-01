@@ -6,7 +6,7 @@ recording_date: 2021-03-02 15:30:00
 excerpt: "Judy and Jacob pull the Major Arcana card, breakthrough. They talk about Judy's time after the Convent in Portland, the breakthroughs and challenges we have in our lives. Judy tells a story about getting into a scary situation while working in a psychiatric unit. We also talk about how experiences growing up can impact us and the need to identify what is happening in our minds."
 itunes_duration_seconds: 1782
 enclosure_length_bytes: 28754407
-enclosure_url: "https://traffic.libsyn.com/secure/motherdearest/e003-the-breaking-and-breakthroughs-in-our-lives.mp3"
+enclosure_url: "https://motherdearest.show/assets/audio/e003-the-breaking-and-breakthroughs-in-our-lives.mp3"
 itunes_episode: 3
 slug: "3"
 ---

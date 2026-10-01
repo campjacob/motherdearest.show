@@ -6,7 +6,7 @@ recording_date: 2021-07-27 15:30:00
 excerpt: "Jacob and Judy start off with some conversation about upcoming events and activities. They use the _Wisdom of the Oracle Divination Cards_ to pull the _8: Community (Tribe) Card_. They talk all about forgiveness. How do we help clients learn to forgive, how do we forgive ourselves, and helping our kids learn to forgive?"
 itunes_duration_seconds: 1995
 enclosure_length_bytes: 32153700
-enclosure_url: "https://traffic.libsyn.com/secure/motherdearest/e012-what-happens-when-they-drive-your-dream-car-off-a-cliff.mp3"
+enclosure_url: "https://motherdearest.show/assets/audio/e012-what-happens-when-they-drive-your-dream-car-off-a-cliff.mp3"
 itunes_episode: 12
 slug: "12"
 ---

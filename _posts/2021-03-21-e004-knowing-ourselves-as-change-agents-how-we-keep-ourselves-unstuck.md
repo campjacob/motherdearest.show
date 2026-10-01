@@ -6,7 +6,7 @@ recording_date: 2021-03-16 15:30:00
 excerpt: "Jacob and Judy use Pathfinder's Tarot deck to pull the _Fool Card_. They talk about the somatic Writing Class that Judy is taking. As a part of the class, she wrote a short Mantra she shared, following the same format as one Amanda Gorman described using. They also talked more about personality and how our parents impact our temperaments."
 itunes_duration_seconds: 1892
 enclosure_length_bytes: 30506943
-enclosure_url: "https://traffic.libsyn.com/secure/motherdearest/e004-knowing-ourselves-as-change-agents-how-we-keep-ourselves-unstuck.mp3"
+enclosure_url: "https://motherdearest.show/assets/audio/e004-knowing-ourselves-as-change-agents-how-we-keep-ourselves-unstuck.mp3"
 itunes_episode: 4
 slug: "4"
 ---

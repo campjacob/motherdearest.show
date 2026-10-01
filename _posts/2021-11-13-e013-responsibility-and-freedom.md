@@ -5,8 +5,8 @@ date: 2021-11-13 13:51:08
 recording_date: 2021-08-10 15:30:00
 excerpt: "Spend some time talking about Jacob's next steps in working on his Ph.D.. They use  _OSHO Zen Tarot Deck_ to pull the _Page of Water: Understanding_ card. They talk about the five gates of grief and Judy's upcoming retreat she is facilitating. They also talk about the Black Lives Matter movement and a book relating the treatment of Black Americans in the US and various caste systems around the world."
 itunes_duration_seconds: 2288
-enclosure_length_bytes: 36841278
-enclosure_url: "https://traffic.libsyn.com/secure/motherdearest/e013-responsibility-and-freedom.mp3"
+enclosure_length_bytes: 36841318
+enclosure_url: "https://motherdearest.show/assets/audio/e013-responsibility-and-freedom.mp3"
 itunes_episode: 13
 slug: "13"
 ---

@@ -6,7 +6,7 @@ recording_date: 2021-02-02 15:30:00
 excerpt: "Jacob and Judy record their first episode of this podcast. We pull the Ace of Water: Going with the Flow from the Zen Tarot Card deck.  We talked about using Tarot style cards in individual mental health services, along with her use of EMDR with clients who have a history of trauma."
 itunes_duration_seconds: 1474
 enclosure_length_bytes: 24289927
-enclosure_url: "https://traffic.libsyn.com/secure/motherdearest/e001-our-first-episode-tarot-cards-and-emdr-in-counseling.mp3"
+enclosure_url: "https://motherdearest.show/assets/audio/e001-our-first-episode-tarot-cards-and-emdr-in-counseling.mp3"
 itunes_episode: 1
 slug: "1"
 ---

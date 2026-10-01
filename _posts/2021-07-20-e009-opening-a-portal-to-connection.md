@@ -5,8 +5,8 @@ date: 2021-07-20 23:23:46
 recording_date: 2021-06-08 15:30:00
 excerpt: "Jacob and Judy use _OSHO Zen Tarot Deck_ to pull the _2 of Clouds: Schizophrenia Card_. They talk about working towards oneness and interconnection. They also imagine the future and talk about what being in the age of Aquarius means."
 itunes_duration_seconds: 2204
-enclosure_length_bytes: 35495801
-enclosure_url: "https://traffic.libsyn.com/secure/motherdearest/e009-opening-a-portal-to-connection.mp3"
+enclosure_length_bytes: 35495877
+enclosure_url: "https://motherdearest.show/assets/audio/e009-opening-a-portal-to-connection.mp3"
 itunes_episode: 9 
 slug: "9"
 ---

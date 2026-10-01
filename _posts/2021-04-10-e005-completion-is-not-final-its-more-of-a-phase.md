@@ -6,7 +6,7 @@ recording_date: 2021-03-30 15:30:00
 excerpt: "Jacob and Judy pull the Major Arcana card XXI Completion from the Osho Zed Tarot deck. We decide that completion is not always about the specific result but is more of a phase that we go through. There can be many completions that happen. We talk about the need to slow down and look at Judy's morning ritual as a way of centering herself and connecting with the land. We also discussed our Indigenous ancestors and the land we live on, and how we should be honoring those that came before us."
 itunes_duration_seconds: 1626
 enclosure_length_bytes: 26249563
-enclosure_url: "https://traffic.libsyn.com/secure/motherdearest/e005-completion-is-not-final-its-more-of-a-phase.mp3"
+enclosure_url: "https://motherdearest.show/assets/audio/e005-completion-is-not-final-its-more-of-a-phase.mp3"
 itunes_episode: 5
 slug: "5"
 ---

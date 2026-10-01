@@ -5,8 +5,8 @@ date: 2021-06-08 00:13:18
 recording_date: 2021-04-27 15:30:00
 excerpt: "Jacob and Judy use the OSHO Zen Tarot Deck and pull the major arcana card, II Inner Voice. We talked about listening to our inner voices and how that can look. Judy shares some experiences hearing/following that voice and other times that she did not recognize it. We also spent time talking about the story of Judy and my Dad meeting, starting their relationship, and what led up to the murders he committed."
 itunes_duration_seconds: 1715
-enclosure_length_bytes: 27679271
-enclosure_url: "https://traffic.libsyn.com/secure/motherdearest/e007-some-of-the-story-of-my-dad.mp3"
+enclosure_length_bytes: 27680947
+enclosure_url: "https://motherdearest.show/assets/audio/e007-some-of-the-story-of-my-dad.mp3"
 itunes_episode: 7
 slug: "7"
 ---

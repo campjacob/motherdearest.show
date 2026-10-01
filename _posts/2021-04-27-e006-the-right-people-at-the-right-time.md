@@ -6,7 +6,7 @@ recording_date: 2021-04-13 15:30:00
 excerpt: "Jacob and Judy start their talk by taking a couple of moments of silence to center themselves. Judy pulls the number eight - tribe from Wisdom of the Oracle Divination Cards. They talk about seeing the needs within a community and ourselves and what it is like to start new things. Judy shares about some of the community organizations she has helped create."
 itunes_duration_seconds: 2282
 enclosure_length_bytes: 36744395
-enclosure_url: "https://traffic.libsyn.com/secure/motherdearest/e006-the-right-people-at-the-right-time.mp3"
+enclosure_url: "https://motherdearest.show/assets/audio/e006-the-right-people-at-the-right-time.mp3"
 itunes_episode: 6
 slug: "6"
 ---

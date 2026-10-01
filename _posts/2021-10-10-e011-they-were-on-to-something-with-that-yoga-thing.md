@@ -6,7 +6,7 @@ recording_date: 2021-07-21
 excerpt: "Jacob and Judy use the _OSHO Zen Tarot Deck_ to pull the _Page of Fire - Playfulness_. They talk about the values of playfulness and how hard it is sometimes for adults to have a real spirit of playfulness. They also talk about different seasons they like and having done martial arts in Jacob's younger years."
 itunes_duration_seconds: 1726
 enclosure_length_bytes: 27848709
-enclosure_url: "https://traffic.libsyn.com/secure/motherdearest/e11-they-were-on-to-something-with-that-yoga-thing.mp3"
+enclosure_url: "https://motherdearest.show/assets/audio/e11-they-were-on-to-something-with-that-yoga-thing.mp3"
 itunes_episode: 11
 slug: "11"
 ---

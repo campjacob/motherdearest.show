@@ -6,7 +6,7 @@ recording_date: 2021-02-16 15:30:00
 excerpt: ""
 itunes_duration_seconds: 1628
 enclosure_length_bytes: 26279006
-enclosure_url: "https://traffic.libsyn.com/secure/motherdearest/e00#-slug.mp3"
+enclosure_url: "https://motherdearest.show/assets/audio/e0##-slug.mp3"
 itunes_episode: 2
 slug: "2"
 ---
